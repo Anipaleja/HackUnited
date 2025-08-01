@@ -21,23 +21,6 @@ function Avatar({
   );
 }
 
-/*************  ✨ Windsurf Command ⭐  *************/
-/**
- * The image element of an avatar.
- *
- * @example
- * import * as React from 'react'
- * import { Avatar, AvatarImage } from '@react-ui/components'
- *
- * export function UserAvatar() {
- *   return (
- *     <Avatar>
- *       <AvatarImage src="/images/avatar.jpg" alt="User avatar" />
- *     </Avatar>
- *   )
- * }
- */
-/*******  600ca318-1e66-4daf-88dc-0a0a24de7dbc  *******/
 function AvatarImage({
   className,
   ...props
