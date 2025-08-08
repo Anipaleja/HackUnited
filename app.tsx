@@ -1,4 +1,4 @@
-import { Hero } from "./components/Hero";
+import { Hero } from "./components/hero";
 
 export default function App() {
   return (
